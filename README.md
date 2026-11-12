@@ -87,6 +87,12 @@ I learnt that Maltego does not collect new types of data on its own - it makes r
   <em>Picture 13:  Footprinting with Maltego</em>
 </p>
 
+<p align="center">
+  <img src="Capture0.PNG" alt="Did You Know!!" width="600" />
+  <br>
+  <em>Capture14.PNG: Did You Know!!</em>
+</p>
+
 ### 4.3 Footprinting with theHarvester - W2-PM4
 
 **What it is:** An OSINT tool that searches many public sources at once for emails, hosts and subdomains related to a domain.
