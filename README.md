@@ -66,7 +66,11 @@ I performed reconnaissance against the networkwalks.com domain using six Kali Li
 - **Wafw00f:** I learnt how to determine whether a Web Application Firewall was protecting the website. It identified ModSecurity (SpiderLabs).
 - **DNSRecon:** I learnt how to enumerate DNS records - name servers, mail servers, SPF/TXT records, service records and DNS software information.
 
-![PM1](evidences/pm1-footprinting.png)
+<p align="center">
+  <img src="Capture1.PNG" alt="WHOIS" width="600" />
+  <br>
+  <em>Capture 1: WHOIS</em>
+</p>
 
 ### 4.2 Footprinting with Maltego - W2-PM3
 
