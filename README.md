@@ -81,7 +81,11 @@ I used Maltego to create entities for the target domain and run transforms to di
 
 I learnt that Maltego does not collect new types of data on its own - it makes relationships easier to understand. Seeing a domain connected to its IPs, mail servers and other entities in one graph makes it much easier to build a full profile of a target than reading text outputs.
 
-![PM3](evidences/pm3-maltego.png)
+<p align="center">
+  <img src="Picture13.PNG" alt=" Footprinting with Maltego" width="600" />
+  <br>
+  <em>Picture 13:  Footprinting with Maltego</em>
+</p>
 
 ### 4.3 Footprinting with theHarvester - W2-PM4
 
