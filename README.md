@@ -19,9 +19,9 @@
 I have performed these activities only on the systems & devices where I had secured written permission or the devices/systems that I own myself. All these materials are for education and research purpose only. Do not use anything from here to break the law. The instructor, the authors and Networkwalks are not responsible for what you do with this knowledge. Every action you take is your own responsibility. Misuse can lead to criminal charges, heavy fines, loss of your job and a permanent record. In most countries unauthorised access is a crime even when nothing is damaged.
 
 <p align="center">
-  <img src="Fig1.4.png" alt="NAT Network Configuration Interface" width="600" />
+  <img src="Capture0.PNG" alt="Liability Disclaimer" width="600" />
   <br>
-  <em>Figure 1.4: Configuration Interface</em>
+  <em>Capture 0: Liability Disclaimer</em>
 </p>
 
 This was NOT pentesting. No exploitation was performed. You must get proper authorization before scanning or testing any system you don't own. No authorization = no testing.
