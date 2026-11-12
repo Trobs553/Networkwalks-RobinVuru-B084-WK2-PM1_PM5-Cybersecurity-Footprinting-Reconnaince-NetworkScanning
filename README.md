@@ -146,7 +146,7 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 ## 8. Evidences Collected
 
-Capture0.PNG
+https://github.com/Trobs553/Networkwalks-RobinVuru-B084-WK2-PM1_PM5-Cybersecurity-Footprinting-Reconnaince-NetworkScanning/blob/855152ad14d3dc0c100fdf48e28409091aec7167/Capture0.PNG
 ![PM3](evidences/pm3-maltego.png)
 ![PM4](evidences/pm4-theharvester.png)
 ![PM5](evidences/pm5-zenmap.png)
