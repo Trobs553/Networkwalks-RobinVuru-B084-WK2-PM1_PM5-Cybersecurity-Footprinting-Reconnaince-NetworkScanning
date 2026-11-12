@@ -88,7 +88,7 @@ I learnt that Maltego does not collect new types of data on its own - it makes r
 </p>
 
 <p align="center">
-  <img src="Capture0.PNG" alt="Did You Know!!" width="600" />
+  <img src="Capture14.png" alt="Did You Know!!" width="600" />
   <br>
   <em>Capture14.PNG: Did You Know!!</em>
 </p>
