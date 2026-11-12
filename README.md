@@ -18,12 +18,6 @@
 
 I have performed these activities only on the systems & devices where I had secured written permission or the devices/systems that I own myself. All these materials are for education and research purpose only. Do not use anything from here to break the law. The instructor, the authors and Networkwalks are not responsible for what you do with this knowledge. Every action you take is your own responsibility. Misuse can lead to criminal charges, heavy fines, loss of your job and a permanent record. In most countries unauthorised access is a crime even when nothing is damaged.
 
-<p align="center">
-  <img src="Capture0.PNG" alt="Liability Disclaimer" width="600" />
-  <br>
-  <em>Capture 0: Liability Disclaimer</em>
-</p>
-
 This was NOT pentesting. No exploitation was performed. You must get proper authorization before scanning or testing any system you don't own. No authorization = no testing.
 
 ## 2. Introduction
@@ -66,12 +60,6 @@ I performed reconnaissance against the networkwalks.com domain using six Kali Li
 - **Wafw00f:** I learnt how to determine whether a Web Application Firewall was protecting the website. It identified ModSecurity (SpiderLabs).
 - **DNSRecon:** I learnt how to enumerate DNS records - name servers, mail servers, SPF/TXT records, service records and DNS software information.
 
-<p align="center">
-  <img src="Capture1.PNG" alt="WHOIS" width="600" />
-  <br>
-  <em>Capture 1: WHOIS</em>
-</p>
-
 ### 4.2 Footprinting with Maltego - W2-PM3
 
 **What it is:** The same kind of footprinting investigation as PM1, but shown visually as a graph.
@@ -80,18 +68,6 @@ I performed reconnaissance against the networkwalks.com domain using six Kali Li
 I used Maltego to create entities for the target domain and run transforms to discover related infrastructure - subdomains, IP addresses, DNS records, emails and related entities.
 
 I learnt that Maltego does not collect new types of data on its own - it makes relationships easier to understand. Seeing a domain connected to its IPs, mail servers and other entities in one graph makes it much easier to build a full profile of a target than reading text outputs.
-
-<p align="center">
-  <img src="Picture13.png" alt=" Footprinting with Maltego" width="600" />
-  <br>
-  <em>Picture 13:  Footprinting with Maltego</em>
-</p>
-
-<p align="center">
-  <img src="Capture14.png" alt="Did You Know!!" width="600" />
-  <br>
-  <em>Capture14.PNG: Did You Know!!</em>
-</p>
 
 ### 4.3 Footprinting with theHarvester - W2-PM4
 
@@ -104,8 +80,6 @@ I learnt that theHarvester is only as good as its setup. Without proper setup an
 
 This taught me a defender lesson too: even free OSINT can expose emails and subdomains that attackers can use for phishing and further enumeration.
 
-![PM4](evidences/pm4-theharvester.png)
-
 ### 4.4 Network Scanning with Zenmap - W2-PM5
 
 **What it is:** Moving from passive recon to active scanning - discovering which devices are live on a network.
@@ -116,9 +90,6 @@ For this activity, I used Zenmap to perform network discovery on my own local ne
 I first used the Windows `ipconfig` command to identify my local IP address and LAN subnet. I then entered the subnet into Zenmap and selected Ping Scan to identify active hosts.
 
 I learnt how to discover live hosts, identify them by IP and MAC address, and use the Topology view in Zenmap to visualise the network. After completing the scan, I opened the Topology section, enabled the legend and saved the network topology as required.
-
-![PM5](evidences/pm5-zenmap.png)
-![PM5 Topology](evidences/pm5-topology.png)
 
 ## 5. Risk Analysis / Impact
 
@@ -175,7 +146,7 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 ## 8. Evidences Collected
 
-![PM1](evidences/pm1-footprinting.png)
+Capture0.PNG
 ![PM3](evidences/pm3-maltego.png)
 ![PM4](evidences/pm4-theharvester.png)
 ![PM5](evidences/pm5-zenmap.png)
