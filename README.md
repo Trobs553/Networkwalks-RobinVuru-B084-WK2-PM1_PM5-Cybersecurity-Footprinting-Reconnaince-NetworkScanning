@@ -147,9 +147,9 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 ## 8. Evidences Collected
 
 <p align="center">
-  <img src="Capture0.PNG" alt="NAT Network Configuration Interface" width="600" />
+  <img src="Capture0.PNG" alt="Authorisation" width="600" />
   <br>
-  <em>Capture 0: Configuration Interface</em>
+  <em>Capture 0: Authorisation</em>
 </p>
 
 -End-
