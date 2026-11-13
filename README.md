@@ -157,6 +157,12 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
   <br>
   <em>Capture 1: W2PM1|$ who is networkworks.com</em>
 </p>
+
+<p align="center">
+  <img src="Capture3.PNG" alt="W2PM1|$ whatweb networkworks.com" width="600" />
+  <br>
+  <em>Capture 3: W2PM1|$ whatweb networkworks.com</em>
+</p>
 -End-
 
 **Author**
