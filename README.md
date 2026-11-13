@@ -152,6 +152,11 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
   <em>Capture 0: Authorisation</em>
 </p>
 
+<p align="center">
+  <img src="Capture1.PNG" alt="Authorisation" width="600" />
+  <br>
+  <em>Capture 1: Authorisation</em>
+</p>
 -End-
 
 **Author**
