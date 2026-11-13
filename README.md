@@ -199,6 +199,11 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
   <br>
   <em>Capture 10: W2PM4|$ theHarvester -d microsoft.com -l 1000 -b baidu</em>
 </p>
+<p align="center">
+  <img src="Capture11.PNG" alt="W2PM4|$ theHarvester -d microsoft.com -l 50 -b all" width="600" />
+  <br>
+  <em>Capture 11: W2PM4|$ theHarvester -d microsoft.com -l 50 -b all</em>
+</p>
 -End-
 
 **Author**
