@@ -169,6 +169,12 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
   <br>
   <em>Capture 5: W2PM1|$ nslookup networkworks.com</em>
 </p>
+
+<p align="center">
+  <img src="Capture6.PNG" alt="W2PM1|$ curl -I https://networkworks.com" width="600" />
+  <br>
+  <em>Capture 6: W2PM1|$ curl -I https://networkworks.com</em>
+</p>
 -End-
 
 **Author**
