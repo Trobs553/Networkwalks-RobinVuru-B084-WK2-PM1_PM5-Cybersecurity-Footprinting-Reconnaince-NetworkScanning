@@ -153,9 +153,9 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 </p>
 
 <p align="center">
-  <img src="Capture1.PNG" alt="Authorisation" width="600" />
+  <img src="Capture1.PNG" alt="W2PM1|$ who is networkworks.com" width="600" />
   <br>
-  <em>Capture 1: Authorisation</em>
+  <em>Capture 1: W2PM1|$ who is networkworks.com</em>
 </p>
 -End-
 
