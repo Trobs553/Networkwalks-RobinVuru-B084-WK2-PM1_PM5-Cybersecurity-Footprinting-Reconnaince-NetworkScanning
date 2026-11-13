@@ -3,10 +3,10 @@
 ## FOOTPRINTING & NETWORK SCANNING PHASES
 ### W2-PM-FINAL | CYBERSECURITY | NETWORKWALKS
 
-| Pentester Name (Cybersecurity Professional) | Robin Vuru |
+| Pentester Name| Robin Vuru |
 | --- | --- |
 | Program/Batch | B084 - Networkwalks |
-| Date | 12 November 2026 |
+| Date | 13 November 2026 |
 | Modules completed | W2-PM1 (Footprinting with Multiple Kali Tools)<br>W2-PM3 (Maltego based Footprinting)<br>W2-PM4 (theHarvester based Footprinting)<br>W2-PM5 (Zenmap based Network Scanning) |
 | Client/Target | 1. Networkwalks (secured written permission already)<br>2. My own local LAN Network |
 | Permission secured from client? | Yes |
@@ -221,7 +221,7 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 **Author**
 Robin Vuru
 Cybersecurity Professional B084 - Networkwalks
-GitHub: https://github.com/Trobs553
+LinkedIn: https://www.linkedin.com/in/robin-vuru-306097292?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 **Project Information**
 Program Name: Cybersecurity program at Networkwalks | Week: 02 | Repository: GitHub
