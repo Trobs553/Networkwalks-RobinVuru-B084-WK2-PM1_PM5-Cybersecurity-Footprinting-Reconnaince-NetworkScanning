@@ -193,6 +193,12 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
   <br>
   <em>Capture 13: W2PM3|MALTEGO</em>
 </p>
+
+<p align="center">
+  <img src="Capture10.PNG" alt="W2PM3|$ theHarvester -d microsoft.com -l 1000 -b baidu" width="600" />
+  <br>
+  <em>Capture 10: W2PM3|$ theHarvester -d microsoft.com -l 1000 -b baidu</em>
+</p>
 -End-
 
 **Author**
