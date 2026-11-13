@@ -189,9 +189,9 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 </p>
 
 <p align="center">
-  <img src="Picture13.png" alt="W2PM1|MALTEGO" width="600" />
+  <img src="Picture13.png" alt="W2PM3|MALTEGO" width="600" />
   <br>
-  <em>Capture 13: W2PM1|MALTEGO</em>
+  <em>Capture 13: W2PM3|MALTEGO</em>
 </p>
 -End-
 
