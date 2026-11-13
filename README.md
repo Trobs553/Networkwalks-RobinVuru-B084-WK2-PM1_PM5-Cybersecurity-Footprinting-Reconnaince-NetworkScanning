@@ -175,6 +175,12 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
   <br>
   <em>Capture 6: W2PM1|$ curl -I https://networkworks.com</em>
 </p>
+
+<p align="center">
+  <img src="Capture7.PNG" alt="W2PM1|$ wafw00f networkworks.com" width="600" />
+  <br>
+  <em>Capture 6: W2PM1|$ wafw00f networkworks.com</em>
+</p>
 -End-
 
 **Author**
