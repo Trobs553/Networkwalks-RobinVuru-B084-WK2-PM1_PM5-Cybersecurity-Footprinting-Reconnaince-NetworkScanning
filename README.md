@@ -187,6 +187,12 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
   <br>
   <em>Capture 8: W2PM1|$ dnsrecon -d networkworks.com</em>
 </p>
+
+<p align="center">
+  <img src="Picture13.png" alt="W2PM1|MALTEGO" width="600" />
+  <br>
+  <em>Capture 13: W2PM1|MALTEGO</em>
+</p>
 -End-
 
 **Author**
