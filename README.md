@@ -179,7 +179,13 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 <p align="center">
   <img src="Capture7.PNG" alt="W2PM1|$ wafw00f networkworks.com" width="600" />
   <br>
-  <em>Capture 6: W2PM1|$ wafw00f networkworks.com</em>
+  <em>Capture 7: W2PM1|$ wafw00f networkworks.com</em>
+</p>
+
+<p align="center">
+  <img src="Capture8.PNG" alt="W2PM1|$ dnsrecon -d networkworks.com" width="600" />
+  <br>
+  <em>Capture 8: W2PM1|$ dnsrecon -d networkworks.com</em>
 </p>
 -End-
 
