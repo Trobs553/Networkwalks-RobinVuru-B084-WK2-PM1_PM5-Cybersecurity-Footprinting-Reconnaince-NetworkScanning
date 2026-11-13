@@ -216,6 +216,12 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
   <br>
   <em>Picture 4: W2PM5|Network Scanning With Zenmap|Windows Host Subnet|ipconfig /all</em>
 </p>
+
+<p align="center">
+  <img src="Picture6.png" alt="W2PM5|Network Scanning With Zenmap|Output Topology" width="600" />
+  <br>
+  <em>Picture 6: W2PM5|Network Scanning With Zenmap|Output Topology Of The 4 Live Hosts</em>
+</p>
 -End-
 
 **Author**
