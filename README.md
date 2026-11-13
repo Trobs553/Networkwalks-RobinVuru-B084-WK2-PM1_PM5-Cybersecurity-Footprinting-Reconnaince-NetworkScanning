@@ -163,6 +163,12 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
   <br>
   <em>Capture 3: W2PM1|$ whatweb networkworks.com</em>
 </p>
+
+<p align="center">
+  <img src="Capture5.PNG" alt="W2PM1|$ nslookup networkworks.com" width="600" />
+  <br>
+  <em>Capture 5: W2PM1|$ nslookup networkworks.com</em>
+</p>
 -End-
 
 **Author**
