@@ -210,6 +210,12 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
   <br>
   <em>Capture 11: W2PM5|Network Scanning With Zenmap</em>
 </p>
+
+<p align="center">
+  <img src="Capture6.PNG" alt="W2PM5|Network Scanning With Zenmap|Windows Host Subnet|ipconfig /all" width="600" />
+  <br>
+  <em>Capture 5: W2PM5|Network Scanning With Zenmap|Windows Host Subnet|ipconfig /all</em>
+</p>
 -End-
 
 **Author**
