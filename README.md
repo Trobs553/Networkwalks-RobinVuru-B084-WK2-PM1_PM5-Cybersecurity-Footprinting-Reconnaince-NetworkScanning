@@ -218,9 +218,9 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 </p>
 
 <p align="center">
-  <img src="Picture6.png" alt="W2PM5|Network Scanning With Zenmap|Output Topology" width="600" />
+  <img src="Capture21.PNG" alt="W2PM5|Network Scanning With Zenmap|Output Topology" width="600" />
   <br>
-  <em>Picture 6: W2PM5|Network Scanning With Zenmap|Output Topology Of The 4 Live Hosts</em>
+  <em>Capture 21: W2PM5|Network Scanning With Zenmap|Output Topology Of The 4 Live Hosts</em>
 </p>
 -End-
 
