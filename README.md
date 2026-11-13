@@ -204,6 +204,12 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
   <br>
   <em>Capture 11: W2PM4|$ theHarvester -d microsoft.com -l 50 -b all</em>
 </p>
+
+<p align="center">
+  <img src="Capture12.PNG" alt="W2PM5|Network Scanning With Zenmap" width="600" />
+  <br>
+  <em>Capture 11: W2PM5|Network Scanning With Zenmap</em>
+</p>
 -End-
 
 **Author**
